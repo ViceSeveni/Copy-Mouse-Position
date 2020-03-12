@@ -1,4 +1,6 @@
 # Mouse-Position-Checker
+(Requires 'pyperclip' and 'pyautogui' libraries installed)
+
 -Perfect for pyautogui projects.
 -Copies your mouses current position in a variable ready format for pyautogui's moveTo() function
 -Save the file with a .pyw extension and make sure it's in your PATH.
