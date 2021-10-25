@@ -2,6 +2,9 @@
 (Requires 'pyperclip' and 'pyautogui' libraries installed)
 
 Perfect for pyautogui projects.
+
 Copies your mouses current position in a variable ready format for pyautogui's moveTo() function
-Save the file with a .pyw extension and make sure it's in your PATH.
-Run it from your command line for efficiency purposes.
+
+Save the file with a .pyw extension, or use a batch (.bat) file. Make sure it's in your PATH environment variables.
+
+Run it from your command line.
